@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362256837542",
+    "project_id": "e-multivendor",
+    "storage_bucket": "e-multivendor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362256837542:android:cde8f6337169251566bd67",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362256837542-t04ob5uglbgojdsc26bi0jvk8g236kc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGUEu7e7zllzTKm6FLcYokxaayXnVGMek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362256837542-t04ob5uglbgojdsc26bi0jvk8g236kc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
